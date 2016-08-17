@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T19:49:41.557Z'
+datePublished: '2016-08-17T14:20:52.443Z'
 sourcePath: _posts/2016-04-16-urban-symmetry.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Xziiv3sodcY'
@@ -16,12 +16,10 @@ keywords:
   - greaceful
   - autoplay
 related: []
-author:
-  - name: Zsolt Hlinka
-    url: 'https://www.youtube.com/user/Hlinkaphoto'
-    avatar: {}
-dateModified: '2016-07-29T19:49:40.878Z'
-title: Urban Symmetry
+author: []
+via: {}
+dateModified: '2016-08-17T14:20:51.253Z'
+title: ''
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Xziiv3sodcY&feature=applinks'
     type: ios
@@ -59,18 +57,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+publisher: {}
 description: ''
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a7d73a9-2fe4-4588-a298-42eaf4419d08.png)
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FXziiv3sodcY%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXziiv3sodcY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXziiv3sodcY%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
